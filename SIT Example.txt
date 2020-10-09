@@ -1,0 +1,8 @@
+Step 1
+Clone Git to Desktop
+Step 2 
+Modify Files to hearts desire
+Step 3
+git commit -m "Updating SIT Example"
+Step 4
+git push -u origin master
